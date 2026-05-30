@@ -1,0 +1,2 @@
+validation_loss,validation_accuracy,test_loss,test_accuracy,final_train_accuracy,best_validation_accuracy,train_validation_accuracy_gap,num_classes,train_images,validation_images,test_images,use_class_weights
+0.10524121671915054,0.9841269850730896,0.13930048048496246,0.9788598418235779,0.9954884052276611,0.9863945841789246,0.009093821048736572,43,34799,4410,12630,False

@@ -1,0 +1,3 @@
+Regularized GTSRB CNN experiment
+=================================
+This run keeps valid.p as an explicit validation set when available. It uses L2 regularization, SpatialDropout2D, GlobalAveragePooling2D, AdamW weight decay, stronger data augmentation, and class weights are set to False.
